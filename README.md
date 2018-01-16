@@ -7,4 +7,4 @@ In January 2018, [Hawaiians mistakenly received an alert on their cell phones wa
 
 ## Assignment
 
-Your assignment is to design and build an alertnative UI for sending alerts. Start with pencil and paper, identifying the responsibilities of the UI and considering how best to organize the information it contains. Then, using the provided HTML, build your UI. You may edit the HTML and write CSS to realize your design.
+Your assignment is to design and build an alertnative UI for sending alerts. Start with pencil and paper, identifying the responsibilities of the UI and considering how best to organize the information it contains. Then, using the [provided HTML](https://sambrenner.github.io/hawaii-alert-demo/), build your UI. You may edit the HTML and write CSS to realize your design.
