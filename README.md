@@ -3,7 +3,7 @@ An exercise for web design / UX students using a mockup of Hawaii's Emergency Al
 
 ## Background
 
-In January 2018, [Hawaiians mistakenly received an alert on their cell phones warning of an incoming ballistic missile](https://www.nytimes.com/2018/01/13/business/hawaii-missile-emergency-alert.html). The source of the false alarm was reported to be a misclick of a link on a [screen capable of sending out multiple alerts](((((((((https://twitter.com/CivilBeat/status/953127914618302464), real and otherwise.
+In January 2018, [Hawaiians mistakenly received an alert on their cell phones warning of an incoming ballistic missile](https://www.nytimes.com/2018/01/13/business/hawaii-missile-emergency-alert.html). The source of the false alarm was reported to be a misclick of a link on a [screen capable of sending out multiple alerts](https://twitter.com/CivilBeat/status/953127914618302464), real and otherwise.
 
 ## Assignment
 
